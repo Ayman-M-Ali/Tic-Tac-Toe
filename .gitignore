@@ -3,4 +3,4 @@ package-lock.json
 package.json
 .eslintrc.js
 .DS_Store
-.eslintrc.json
+eslintrc.json

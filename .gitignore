@@ -1,6 +1,5 @@
 node_modules/
 package-lock.json
 package.json
-.eslintrc.js
+.eslintrc.json
 .DS_Store
-eslintrc.json
